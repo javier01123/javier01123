@@ -2,22 +2,23 @@
  
 ## I'm a Software Developer!
 
-- 🔭 I have a lot of experience working with the .NET Stack.
+- ⚡ I also have experience with python/Django creating Rest APIs.
+
 - 🌱 Currently working with .NET core / React JS.
 - 🌱 I also have experience with python/Django creating Rest APIs.
-- 🌱 2022 Goals: Get more deep knowlenge on frontend technologies.
+- 🌱 2022 Goals: Get deeper knowledge on frontend technologies.
 - 🌱 Working on my blog javierandrade.net
  
  
 ## Check out my projects 
 
-- 🔭 Frontend project using React JS [repo](https://github.com/javier01123/facturacion_frontend) / [live demo](https://facturacion-frontend-dev.herokuapp.com/)
+- 🔭 Frontend project using React JS. [repo](https://github.com/javier01123/facturacion_frontend) / [live demo](https://facturacion-frontend-dev.herokuapp.com/)
   
-- 🔭 Domain Driven Design / Clean Architecture implementation on .NET Core [repo](https://github.com/javier01123/facturacion_backend)
+- 🔭 Domain Driven Design / Clean Architecture implementation on .NET Core. [repo](https://github.com/javier01123/facturacion_backend)
 
-- 🔭 A 3 layered architecture using Entity Framework Core [repo](https://github.com/javier01123/ThreeLayeredNetCoreAPI)
+- 🔭 A 3 layered architecture using Entity Framework Core. [repo](https://github.com/javier01123/ThreeLayeredNetCoreAPI)
 
-- 🔭 A React Native App, validates mexican electronic invoices [repo](https://github.com/javier01123/validacion_cfdi_mobile)
+- 🔭 A React Native App, validates mexican electronic invoices. [repo](https://github.com/javier01123/validacion_cfdi_mobile)
 
 ### Connect with me:
  
