@@ -2,8 +2,6 @@
  
 ## I'm a Software Developer!
 
-- ⚡ I also have experience with python/Django creating Rest APIs.
-
 - 🌱 Currently working with .NET core / React JS.
 - 🌱 I also have experience with python/Django creating Rest APIs.
 - 🌱 2022 Goals: Get deeper knowledge on frontend technologies.
