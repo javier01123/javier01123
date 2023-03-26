@@ -11,7 +11,7 @@
 
 - 🔭 A 3 layered API template using .NET 7 and Entity Framework. [repo](https://github.com/javier01123/API_Layered_Template)
 
-- 🔭 Frontend project using React JS. [repo](https://github.com/javier01123/facturacion_frontend) / [live demo](https://facturacion-frontend-dev.herokuapp.com/)
+- 🔭 Frontend project using React JS. [repo](https://github.com/javier01123/facturacion_frontend)
   
 - 🔭 Domain Driven Design / Clean Architecture implementation on .NET Core. [repo](https://github.com/javier01123/facturacion_backend)
 
