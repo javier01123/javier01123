@@ -2,10 +2,9 @@
  
 ## I'm a Software Developer!
 
-- 🌱 Currently working with .NET core / React JS.
-- 🌱 I also have experience with python/Django creating Rest APIs.
-- 🌱 2022 Goals: Get deeper knowledge on frontend technologies.
-- 🌱 Working on my blog javierandrade.net
+- 🌱 Current tech stack: .NET core and React JS.
+- 🌱 I also have experience with python/django creating Rest APIs.
+ 
  
  
 ## Check out my projects 
